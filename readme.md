@@ -4,7 +4,7 @@
 
 **WittyMart** is a smart shopping platform designed to provide users with a seamless and enjoyable online shopping experience. The platform offers a wide range of products across various categories, including electronics, fashion, home & living, beauty & health, sports & outdoors, and more.
 
-> ⚠️ **This repository is the frontend only.** It is a static website built with **HTML, CSS, and JavaScript**. There is no backend in this repository. The full product — with user accounts, cart persistence, orders, and admin tools — is a separate **frontend + backend** system hosted in its own repository and served from its own domain.
+>  **This repository is the frontend only.** It is a static website built with **HTML, CSS, and JavaScript**. There is no backend in this repository. The full product — with user accounts, cart persistence, orders, and admin tools — is a separate **frontend + backend** system hosted in its own repository and served from its own domain.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 1. What This Repository Is (and Isn't)
 
-### ✅ What this repository IS
+### What this repository IS
 - A **static frontend website**
 - Written entirely in **HTML5, CSS3, and vanilla JavaScript**
 - Deployable to any static host (Netlify, Vercel, GitHub Pages, Render static site, S3, etc.)
@@ -33,7 +33,7 @@
 - Fully responsive — works on mobile, tablet, and desktop
 - No server, no database, no authentication required to view
 
-### ❌ What this repository IS NOT
+### What this repository IS NOT
 - **Not a full-stack application**
 - **No backend** — no API, no database, no server-side logic
 - **No real authentication** — the login and registration forms here are UI-only
@@ -180,9 +180,9 @@ Because this is a pure static site, you can deploy to:
 ### Images
 
 `images/` contains:
-- `products/` — Product thumbnails and detail images
-- `banners/` — Hero and promotional banners
-- `logos/` — Site logo and favicon
+- Product thumbnails and detail images
+- Hero and promotional banners
+- Site logo and favicon
 
 ---
 
@@ -243,9 +243,9 @@ The complete **WittyMart** platform — with the actual production frontend **pl
 - **Email notifications** — order confirmations, shipping updates
 
 ### Where to find it
-- **Repository:** *(link to the full-stack repo — add yours here)*
-- **Live domain:** *(link to the production domain — add yours here)*
-- **Tech stack:** *(add your real stack here — e.g., PHP + MySQL, Node + PostgreSQL, etc.)*
+- **Repository:** *[link to the full-stack repo](https://github.com/jacobkau/WittyMart-Fronted-and-Backend)*
+- **Live domain:** *[link to the production domain](https://wittymart.onrender.com/)*
+- **Tech stack:** *PHP + MySQL, Aiven DBMS.*
 
 ### What this repository's role is in that system
 This frontend can be:
